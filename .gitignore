@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+saved_models/
+annotations/
+__pycache__/
+train2017/
+val2017/
+wikiart/
+
+*.mat
