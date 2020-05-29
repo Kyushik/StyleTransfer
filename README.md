@@ -7,7 +7,7 @@ Implementation of style transfer algorithms using tensorflow 1.x
 
 Content Dataset: [MS COCO 2017](http://cocodataset.org/#home)
 
-Style Dataset: [WikiArt]([https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt Dataset))
+Style Dataset: [WikiArt](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
 
 
 
