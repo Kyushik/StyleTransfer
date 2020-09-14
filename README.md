@@ -1,5 +1,5 @@
 # StyleTransfer
-Implementation of style transfer algorithms using tensorflow 1.x
+Implementation of style transfer algorithms using tensorflow 1.x and Pytorch
 
 
 
@@ -8,6 +8,12 @@ Implementation of style transfer algorithms using tensorflow 1.x
 Content Dataset: [MS COCO 2017](http://cocodataset.org/#home)
 
 Style Dataset: [WikiArt](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
+
+
+
+## Models
+
+- VGG19 for Pytorch: https://www.dropbox.com/s/n31xz6ee7pmeaij/vgg19-dcbb9e9d.pth?dl=0
 
 
 
@@ -21,4 +27,17 @@ Style Dataset: [WikiArt](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%2
 
 ### 1. Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (AdaIN)
 
+### Tensorflow
+
 <img src="./images/AdaIN_Result.png" width="800">
+
+### Pytorch
+
+<img src="./images/AdaIN_Pytorch_Result.png" width="800">
+
+
+
+## Reference
+
+- VGG: https://github.com/jiweibo/ImageNet
+- AdaIN: https://github.com/ftokarev/tf-adain
